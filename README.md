@@ -1,4 +1,4 @@
-#Custom Word Count Tool
+## Custom Word Count Tool
 
 `ccwc` (Custom Word Count) is a Python-based command-line tool inspired by the Unix `wc` command. It counts bytes, lines, words, and characters in a text file or from standard input, supporting various command-line options. This tool was built to provide a lightweight, customizable alternative for file content analysis.
 
